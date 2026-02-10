@@ -1,1 +1,2 @@
-Hello world, welcome to Git.
+Hello world, git is a version control system which acts as a super powerful save button.
+Which enable collaboration between teams and the ability to revert to previosu iterations of a project should there be bugs,
